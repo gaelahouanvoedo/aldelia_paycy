@@ -54,7 +54,7 @@ with st.sidebar:
 # Page d'introduction
 if menu == "Introduction":
     st.write("""
-    # Extraction de donnée de paie
+    # Extraction de données de paie.
     
     Cette application permet d'analyser, de traiter et d'extraire les données de paie.
                    
