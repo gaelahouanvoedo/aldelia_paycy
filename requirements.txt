@@ -1,5 +1,5 @@
-streamlit==0.89.0
-Pillow==8.3.1
-PyPDF2==1.26.0
-pandas==1.3.0
-scikit-learn==0.24.2
+streamlit==1.10.0  # Assurez-vous d'utiliser la version souhaitée de Streamlit
+pandas==1.3.3  # Assurez-vous d'utiliser la version souhaitée de pandas
+Pillow==8.3.2  # Assurez-vous d'utiliser la version souhaitée de Pillow
+openpyxl==3.0.9  # Assurez-vous d'utiliser la version souhaitée d'openpyxl
+xlsxwriter==3.0.1  # Assurez-vous d'utiliser la version souhaitée de xlsxwriter
