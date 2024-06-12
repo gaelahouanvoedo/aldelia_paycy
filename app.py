@@ -5,8 +5,8 @@ from PIL import Image
 
 # Configuration de la page
 st.set_page_config(
-    page_title="Analyse de la Paie - Avril 2024",
-    page_icon="📊",
+    page_title="Extraction de données de paie",
+    #page_icon="",
     initial_sidebar_state="expanded",
 )
 
