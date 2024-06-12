@@ -39,7 +39,7 @@ def convert_df_to_excel(df):
     return processed_data
 
 # Chargement de l'image de logo
-image = Image.open(r'C:\Users\GaelAHOUANVOEDO\DATA\ORNELLY\log.png')
+image = Image.open(r'log.png')
 
 # Barre latérale
 with st.sidebar:
